@@ -1,4 +1,4 @@
-All OTS Berlin events.
+All past OTS Berlin events.
 
 Generated with:
 
